@@ -1,7 +1,7 @@
+default_tier = "digest"
+
 [tiers.instant]
 event_types = ["community-day", "pokemon-go-fest", "raid-day"]
 
 [tiers.digest]
 event_types = ["pokemon-spotlight-hour", "raid-battles", "max-mondays", "raid-hour"]
-
-default_tier = "digest"
