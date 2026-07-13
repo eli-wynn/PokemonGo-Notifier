@@ -120,6 +120,15 @@
   "special-anniversary-pikachu-celebration-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
+  "ultra-unlock-10th-anniversary-edition": {
+    "digest_sent": false,
+    "end": "2026-07-27T20:00:00.000",
+    "link": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
+    "name": "Ultra Unlock: 10th Anniversary Edition",
+    "notified_at": "2026-07-13T17:52:56.035822+00:00",
+    "start": "2026-07-21T10:00:00.000",
+    "tier": "digest"
+  },
   "water-festival-2026": {
     "digest_sent": false,
     "end": "2026-08-24T20:00:00.000",
