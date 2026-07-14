@@ -35,6 +35,15 @@
   "gbl-forever-forward_ultra-league_weather-cup-great-league-edition": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
+  "gigantamax-rillaboom-max-battle-day-2026": {
+    "digest_sent": false,
+    "end": "2026-08-01T17:00:00.000",
+    "link": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
+    "name": "Gigantamax Rillaboom Max Battle Day",
+    "notified_at": "2026-07-14T20:58:05.629309+00:00",
+    "start": "2026-08-01T14:00:00.000",
+    "tier": "digest"
+  },
   "go-pass-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
@@ -119,6 +128,15 @@
   },
   "special-anniversary-pikachu-celebration-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
+  },
+  "starmie-super-mega-raid-day-2026": {
+    "digest_sent": true,
+    "end": "2026-08-22T17:00:00.000",
+    "link": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
+    "name": "Starmie Super Mega Raid Day",
+    "notified_at": "2026-07-14T20:58:06.032927+00:00",
+    "start": "2026-08-22T11:00:00.000",
+    "tier": "instant"
   },
   "ultra-unlock-10th-anniversary-edition": {
     "digest_sent": false,
