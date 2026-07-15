@@ -90,6 +90,15 @@
   "pokemon-go-fest-2026-global": {
     "notified_at": "2026-07-09T18:31:05.551552+00:00"
   },
+  "pokemon-go-fest-2026-global-sunday-raid-makeup": {
+    "digest_sent": true,
+    "end": "2026-07-26T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/",
+    "name": "GO Fest 2026 Sunday Raid Makeup",
+    "notified_at": "2026-07-15T10:00:12.113295+00:00",
+    "start": "2026-07-26T10:00:00.000",
+    "tier": "instant"
+  },
   "pokemonspotlighthour2026-07-16": {
     "notified_at": "2026-07-09T18:31:05.551552+00:00"
   },
