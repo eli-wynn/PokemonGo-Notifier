@@ -147,6 +147,15 @@
     "start": "2026-08-22T11:00:00.000",
     "tier": "instant"
   },
+  "summer-marathon-2026": {
+    "digest_sent": false,
+    "end": "2026-08-10T20:00:00.000",
+    "link": "https://leekduck.com/events/summer-marathon-2026/",
+    "name": "Summer Marathon: Arctic Embers",
+    "notified_at": "2026-07-15T20:57:48.370852+00:00",
+    "start": "2026-08-04T10:00:00.000",
+    "tier": "digest"
+  },
   "ultra-unlock-10th-anniversary-edition": {
     "digest_sent": false,
     "end": "2026-07-27T20:00:00.000",
