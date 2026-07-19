@@ -9,7 +9,7 @@
     "notified_at": "2026-07-09T18:31:05.912341+00:00"
   },
   "fire-and-ice-hatch-day-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-08T17:00:00.000",
     "link": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
     "name": "Fire and Ice Hatch Day",
@@ -45,7 +45,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "gigantamax-rillaboom-max-battle-day-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-01T17:00:00.000",
     "link": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
     "name": "Gigantamax Rillaboom Max Battle Day",
@@ -68,7 +68,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-07-12",
+  "last_digest_sent": "2026-07-19",
   "max-mondays-2026-07-13": {
     "notified_at": "2026-07-09T18:31:05.551552+00:00"
   },
@@ -157,7 +157,7 @@
     "tier": "instant"
   },
   "summer-marathon-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-10T20:00:00.000",
     "link": "https://leekduck.com/events/summer-marathon-2026/",
     "name": "Summer Marathon: Arctic Embers",
@@ -166,7 +166,7 @@
     "tier": "digest"
   },
   "ultra-unlock-10th-anniversary-edition": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-07-27T20:00:00.000",
     "link": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
     "name": "Ultra Unlock: 10th Anniversary Edition",
@@ -175,7 +175,7 @@
     "tier": "digest"
   },
   "water-festival-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-24T20:00:00.000",
     "link": "https://leekduck.com/events/water-festival-2026/",
     "name": "Water Festival",
