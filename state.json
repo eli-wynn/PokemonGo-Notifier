@@ -54,7 +54,7 @@
     "tier": "digest"
   },
   "go-pass-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-08T10:00:00.000",
     "link": "https://leekduck.com/events/go-pass-august-2026/",
     "name": "GO Pass: August",
@@ -66,7 +66,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "groudon-in-5-star-raid-battles-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-18T22:00:00.000",
     "link": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
     "name": "Groudon in 5-star Raid Battles",
@@ -86,9 +86,9 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-07-19",
+  "last_digest_sent": "2026-07-26",
   "lunala-in-5-star-raid-battles-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-25T22:00:00.000",
     "link": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
     "name": "Lunala in 5-star Raid Battles",
@@ -106,7 +106,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "max-mondays-2026-08-03": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-03T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-08-03/",
     "name": "Dynamax Magmar during Max Monday",
@@ -115,7 +115,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-08-10": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-10T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-08-10/",
     "name": "Dynamax Beldum during Max Monday",
@@ -124,7 +124,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-08-17": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-17T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-08-17/",
     "name": "Dynamax Magikarp during Max Monday",
@@ -133,7 +133,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-08-24": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-24T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-08-24/",
     "name": "Dynamax Hitmontop during Max Monday",
@@ -142,7 +142,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-08-31": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-31T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-08-31/",
     "name": "Dynamax Eevee during Max Monday",
@@ -154,7 +154,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "mega-blaziken-in-mega-raids-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-11T22:00:00.000",
     "link": "https://leekduck.com/events/mega-blaziken-in-mega-raids-august-2026/",
     "name": "Mega Blaziken in Mega Raids",
@@ -163,7 +163,7 @@
     "tier": "digest"
   },
   "mega-garchomp-in-mega-raids-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-18T22:00:00.000",
     "link": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
     "name": "Mega Garchomp in Mega Raids",
@@ -172,7 +172,7 @@
     "tier": "digest"
   },
   "mega-gyarados-in-mega-raids-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-08T22:00:00.000",
     "link": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
     "name": "Mega Gyarados in Mega Raids",
@@ -190,7 +190,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "mega-swampert-in-mega-raids-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-25T22:00:00.000",
     "link": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
     "name": "Mega Swampert in Mega Raids",
@@ -217,7 +217,7 @@
     "tier": "instant"
   },
   "pokemon-xp-2026-worlds": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-30T20:00:00.000",
     "link": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
     "name": "Pok\u00e9mon XP &amp; 2026 Worlds",
@@ -250,7 +250,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "raidhour20260805": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-05T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20260805/",
     "name": "Uxie, Mesprit, and Azelf Raid Hour",
@@ -259,7 +259,7 @@
     "tier": "digest"
   },
   "raidhour20260812": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-12T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20260812/",
     "name": "Groudon Raid Hour",
@@ -268,7 +268,7 @@
     "tier": "digest"
   },
   "raidhour20260819": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-19T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20260819/",
     "name": "Lunala Raid Hour",
@@ -277,7 +277,7 @@
     "tier": "digest"
   },
   "raidhour20260826": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-26T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20260826/",
     "name": "Regirock, Regice, and Registeel Raid Hour",
@@ -286,7 +286,7 @@
     "tier": "digest"
   },
   "raidhour20260902": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-02T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20260902/",
     "name": "Regirock, Regice, and Registeel Raid Hour",
@@ -295,7 +295,7 @@
     "tier": "digest"
   },
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-08T22:00:00.000",
     "link": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
     "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
@@ -310,7 +310,7 @@
     "notified_at": "2026-07-09T18:31:06.059757+00:00"
   },
   "shadow-giratina-altered-in-shadow-raids-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-08T22:00:00.000",
     "link": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
     "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
@@ -355,7 +355,7 @@
     "tier": "digest"
   },
   "uxie-mesprit-azelf-in-5-star-raid-battles-august-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-08-11T22:00:00.000",
     "link": "https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/",
     "name": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
