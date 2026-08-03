@@ -87,6 +87,15 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "last_digest_sent": "2026-08-02",
+  "lego-pokemon-go-2026": {
+    "digest_sent": false,
+    "end": "2026-09-30T23:59:00.000",
+    "link": "https://leekduck.com/events/lego-pokemon-go-2026/",
+    "name": "LEGO Stores and Pok\u00e9mon GO",
+    "notified_at": "2026-08-03T02:34:01.275103+00:00",
+    "start": "2026-08-03T10:00:00.000",
+    "tier": "digest"
+  },
   "lunala-in-5-star-raid-battles-august-2026": {
     "digest_sent": true,
     "end": "2026-08-25T22:00:00.000",
@@ -242,6 +251,42 @@
   },
   "pokemonspotlighthour2026-07-30": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
+  },
+  "pokemonspotlighthour2026-08-06": {
+    "digest_sent": false,
+    "end": "2026-08-06T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-06/",
+    "name": "Delibird Spotlight Hour",
+    "notified_at": "2026-08-03T02:34:01.275082+00:00",
+    "start": "2026-08-06T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-08-13": {
+    "digest_sent": false,
+    "end": "2026-08-13T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-13/",
+    "name": "Wurmple Spotlight Hour",
+    "notified_at": "2026-08-03T02:34:01.275097+00:00",
+    "start": "2026-08-13T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-08-20": {
+    "digest_sent": false,
+    "end": "2026-08-20T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-20/",
+    "name": "Magikarp Spotlight Hour",
+    "notified_at": "2026-08-03T02:34:01.275100+00:00",
+    "start": "2026-08-20T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-08-27": {
+    "digest_sent": false,
+    "end": "2026-08-27T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
+    "name": "Mankey Spotlight Hour",
+    "notified_at": "2026-08-03T02:34:01.275102+00:00",
+    "start": "2026-08-27T18:00:00.000",
+    "tier": "digest"
   },
   "raichu-super-mega-raid-day-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
