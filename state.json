@@ -1,4 +1,13 @@
 {
+  "10th-anniversary-celebration": {
+    "digest_sent": false,
+    "end": "2026-09-06T23:59:00.000",
+    "link": "https://leekduck.com/events/10th-anniversary-celebration/",
+    "name": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+    "notified_at": "2026-08-13T01:45:23.870243+00:00",
+    "start": "2026-08-12T16:00:00.000",
+    "tier": "digest"
+  },
   "august-communityday2026": {
     "notified_at": "2026-07-09T18:31:05.912341+00:00"
   },
