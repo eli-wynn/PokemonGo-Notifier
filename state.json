@@ -83,6 +83,15 @@
   "go-pass-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
+  "go-pass-september-2026": {
+    "digest_sent": false,
+    "end": "2026-10-06T10:00:00.000",
+    "link": "https://leekduck.com/events/go-pass-september-2026/",
+    "name": "GO Pass: September",
+    "notified_at": "2026-08-25T20:24:55.008141+00:00",
+    "start": "2026-09-08T10:00:00.000",
+    "tier": "digest"
+  },
   "groudon-in-5-star-raid-battles-august-2026": {
     "digest_sent": true,
     "end": "2026-08-18T22:00:00.000",
@@ -443,6 +452,15 @@
   },
   "season-23-forever-forward": {
     "notified_at": "2026-07-09T18:31:06.059757+00:00"
+  },
+  "season-24-twilight-trails": {
+    "digest_sent": false,
+    "end": "2026-12-01T10:00:00.000",
+    "link": "https://leekduck.com/events/season-24-twilight-trails/",
+    "name": "Twilight Trails",
+    "notified_at": "2026-08-25T20:24:55.008154+00:00",
+    "start": "2026-09-08T10:00:00.000",
+    "tier": "digest"
   },
   "september-communitydayclassic2026": {
     "digest_sent": true,
