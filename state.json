@@ -351,6 +351,15 @@
   "mega-sceptile-in-mega-raids-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
+  "mega-squads": {
+    "digest_sent": false,
+    "end": "2026-09-14T20:00:00.000",
+    "link": "https://leekduck.com/events/mega-squads/",
+    "name": "Mega Squads",
+    "notified_at": "2026-08-31T23:36:06.243488+00:00",
+    "start": "2026-09-08T10:00:00.000",
+    "tier": "digest"
+  },
   "mega-squads-2026": {
     "digest_sent": true,
     "end": "2026-09-14T20:00:00.000",
