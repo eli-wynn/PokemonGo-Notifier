@@ -549,6 +549,15 @@
     "start": "2026-09-05T10:00:00.000",
     "tier": "instant"
   },
+  "pokemon-horizons-the-series-celebration-event-2026": {
+    "digest_sent": false,
+    "end": "2026-09-22T20:00:00.000",
+    "link": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
+    "name": "Pok\u00e9mon Horizons: The Series Celebration Event",
+    "notified_at": "2026-09-02T19:15:26.943513+00:00",
+    "start": "2026-09-16T10:00:00.000",
+    "tier": "digest"
+  },
   "pokemon-world-championships-2026-san-francisco": {
     "digest_sent": true,
     "end": "2026-08-31T03:00:00.000Z",
