@@ -9,7 +9,7 @@
     "tier": "digest"
   },
   "armored-mewtwo-in-5-star-raid-battles-september-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-06T18:00:00.000",
     "link": "https://leekduck.com/events/armored-mewtwo-in-5-star-raid-battles-september-2026/",
     "name": "Armored Mewtwo in 5-star Raid Battles",
@@ -81,7 +81,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-15T20:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
@@ -90,7 +90,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-13T20:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
@@ -99,7 +99,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-10T21:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
@@ -108,7 +108,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-17T21:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
     "name": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
@@ -117,7 +117,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-20T20:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
     "name": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
@@ -126,7 +126,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-22T20:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition/",
     "name": "Great League, Ultra League: Mega Edition, and Willpower Cup: Great League Edition | Twilight Trails",
@@ -135,7 +135,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-12-01T21:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
     "name": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
@@ -144,7 +144,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-06T20:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/",
     "name": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
@@ -153,7 +153,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-03T21:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
     "name": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
@@ -162,7 +162,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-25T21:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
     "name": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
@@ -171,7 +171,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-27T20:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
     "name": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
@@ -180,7 +180,7 @@
     "tier": "digest"
   },
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-29T20:00:00.000Z",
     "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition/",
     "name": "Ultra League, Master League: Mega Edition, and Retro Cup: Great League Edition | Twilight Trails",
@@ -257,7 +257,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-08-30",
+  "last_digest_sent": "2026-09-06",
   "lego-pokemon-go-2026": {
     "digest_sent": true,
     "end": "2026-09-30T23:59:00.000",
@@ -460,7 +460,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "mega-squads": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-14T20:00:00.000",
     "link": "https://leekduck.com/events/mega-squads/",
     "name": "Mega Squads",
@@ -550,7 +550,7 @@
     "tier": "instant"
   },
   "pokemon-horizons-the-series-celebration-event-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-22T20:00:00.000",
     "link": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
     "name": "Pok\u00e9mon Horizons: The Series Celebration Event",
