@@ -188,6 +188,15 @@
     "start": "2026-09-22T20:00:00.000Z",
     "tier": "digest"
   },
+  "gigantamax-cinderace-max-battle-day-2026": {
+    "digest_sent": false,
+    "end": "2026-10-03T17:00:00.000",
+    "link": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
+    "name": "Gigantamax Cinderace Max Battle Day",
+    "notified_at": "2026-09-10T08:38:13.181443+00:00",
+    "start": "2026-10-03T14:00:00.000",
+    "tier": "digest"
+  },
   "gigantamax-rillaboom-max-battle-day-2026": {
     "digest_sent": true,
     "end": "2026-08-01T17:00:00.000",
