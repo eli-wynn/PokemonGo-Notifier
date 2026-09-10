@@ -558,6 +558,33 @@
     "start": "2026-09-05T10:00:00.000",
     "tier": "instant"
   },
+  "pokemon-go-wild-area-2026-global": {
+    "digest_sent": false,
+    "end": "2026-11-15T18:00:00.000",
+    "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
+    "name": "Pok\u00e9mon GO Wild Area: Global",
+    "notified_at": "2026-09-10T03:01:00.931776+00:00",
+    "start": "2026-11-14T10:00:00.000",
+    "tier": "digest"
+  },
+  "pokemon-go-wild-area-2026-mexico-city": {
+    "digest_sent": false,
+    "end": "2026-11-09T00:00:00.000Z",
+    "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/",
+    "name": "Pok\u00e9mon GO Wild Area: Mexico City",
+    "notified_at": "2026-09-10T03:01:00.931772+00:00",
+    "start": "2026-11-06T16:00:00.000Z",
+    "tier": "digest"
+  },
+  "pokemon-go-wild-area-2026-sendai-japan": {
+    "digest_sent": false,
+    "end": "2026-11-08T09:00:00.000Z",
+    "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/",
+    "name": "Pok\u00e9mon GO Wild Area: Sendai, Tohoku",
+    "notified_at": "2026-09-10T03:01:00.931757+00:00",
+    "start": "2026-11-06T01:00:00.000Z",
+    "tier": "digest"
+  },
   "pokemon-horizons-the-series-celebration-event-2026": {
     "digest_sent": true,
     "end": "2026-09-22T20:00:00.000",
