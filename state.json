@@ -189,7 +189,7 @@
     "tier": "digest"
   },
   "gigantamax-cinderace-max-battle-day-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-03T17:00:00.000",
     "link": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
     "name": "Gigantamax Cinderace Max Battle Day",
@@ -249,7 +249,7 @@
     "tier": "digest"
   },
   "harvest-festival-taken-over-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-05T20:00:00.000",
     "link": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
     "name": "Harvest Festival: Taken Over",
@@ -275,7 +275,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-09-06",
+  "last_digest_sent": "2026-09-13",
   "lego-pokemon-go-2026": {
     "digest_sent": true,
     "end": "2026-09-30T23:59:00.000",
@@ -544,7 +544,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "patterns-of-the-wild-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-02T20:00:00.000",
     "link": "https://leekduck.com/events/patterns-of-the-wild-2026/",
     "name": "Patterns of the Wild",
@@ -577,7 +577,7 @@
     "tier": "instant"
   },
   "pokemon-go-wild-area-2026-global": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-15T18:00:00.000",
     "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
     "name": "Pok\u00e9mon GO Wild Area: Global",
@@ -586,7 +586,7 @@
     "tier": "digest"
   },
   "pokemon-go-wild-area-2026-mexico-city": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-09T00:00:00.000Z",
     "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/",
     "name": "Pok\u00e9mon GO Wild Area: Mexico City",
@@ -595,7 +595,7 @@
     "tier": "digest"
   },
   "pokemon-go-wild-area-2026-sendai-japan": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-08T09:00:00.000Z",
     "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/",
     "name": "Pok\u00e9mon GO Wild Area: Sendai, Tohoku",
