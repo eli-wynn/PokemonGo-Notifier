@@ -738,6 +738,15 @@
     "start": "2026-11-06T01:00:00.000Z",
     "tier": "digest"
   },
+  "pokemon-horizons-bonus-timed-research-2026": {
+    "digest_sent": false,
+    "end": "2026-09-22T20:00:00.000",
+    "link": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
+    "name": "Pok\u00e9mon Horizons Bonus Timed Research",
+    "notified_at": "2026-09-18T15:48:03.548645+00:00",
+    "start": "2026-09-18T00:00:00.000",
+    "tier": "digest"
+  },
   "pokemon-horizons-the-series-celebration-event-2026": {
     "digest_sent": true,
     "end": "2026-09-22T20:00:00.000",
