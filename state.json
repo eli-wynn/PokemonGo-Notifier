@@ -53,6 +53,24 @@
   "choose-your-path-venom-and-vines-2026": {
     "notified_at": "2026-07-09T18:31:05.912341+00:00"
   },
+  "dialga-in-5-star-raid-battles-october-2026": {
+    "digest_sent": false,
+    "end": "2026-10-20T22:00:00.000",
+    "link": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
+    "name": "Dialga in 5-star Raid Battles",
+    "notified_at": "2026-09-18T03:08:10.781245+00:00",
+    "start": "2026-10-14T06:00:00.000",
+    "tier": "digest"
+  },
+  "fall-marathon-buddy-trek-2026": {
+    "digest_sent": false,
+    "end": "2026-10-19T23:59:00.000",
+    "link": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
+    "name": "Fall Marathon: Buddy Trek",
+    "notified_at": "2026-09-18T03:08:10.781243+00:00",
+    "start": "2026-10-13T00:00:00.000",
+    "tier": "digest"
+  },
   "fire-and-ice-hatch-day-2026": {
     "digest_sent": true,
     "end": "2026-08-08T17:00:00.000",
@@ -215,6 +233,15 @@
     "start": "2026-08-01T14:00:00.000",
     "tier": "digest"
   },
+  "giratina-origin-forme-in-5-star-raid-battles-october-2026": {
+    "digest_sent": false,
+    "end": "2026-11-03T22:00:00.000",
+    "link": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
+    "name": "Giratina (Origin Forme) in 5-star Raid Battles",
+    "notified_at": "2026-09-18T03:08:10.781262+00:00",
+    "start": "2026-10-28T06:00:00.000",
+    "tier": "digest"
+  },
   "go-pass-august-2026": {
     "digest_sent": true,
     "end": "2026-09-08T10:00:00.000",
@@ -243,6 +270,24 @@
     "name": "Groudon in 5-star Raid Battles",
     "notified_at": "2026-07-23T02:30:30.369240+00:00",
     "start": "2026-08-12T06:00:00.000",
+    "tier": "digest"
+  },
+  "halloween-2026-part-1": {
+    "digest_sent": false,
+    "end": "2026-10-31T23:59:00.000",
+    "link": "https://leekduck.com/events/halloween-2026-part-1/",
+    "name": "Halloween 2026 Part I",
+    "notified_at": "2026-09-18T03:08:10.781259+00:00",
+    "start": "2026-10-27T00:00:00.000",
+    "tier": "digest"
+  },
+  "halloween-2026-part-2": {
+    "digest_sent": false,
+    "end": "2026-11-05T23:59:00.000",
+    "link": "https://leekduck.com/events/halloween-2026-part-2/",
+    "name": "Halloween 2026 Part II",
+    "notified_at": "2026-09-18T03:08:10.781265+00:00",
+    "start": "2026-11-01T00:00:00.000",
     "tier": "digest"
   },
   "happy-birthday-professor-willow-2026": {
@@ -411,6 +456,42 @@
     "start": "2026-09-28T06:00:00.000",
     "tier": "digest"
   },
+  "max-mondays-2026-10-05": {
+    "digest_sent": false,
+    "end": "2026-10-05T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-10-05/",
+    "name": "Dynamax Sizzlipede during Max Monday",
+    "notified_at": "2026-09-18T03:08:10.781224+00:00",
+    "start": "2026-10-05T06:00:00.000",
+    "tier": "digest"
+  },
+  "max-mondays-2026-10-12": {
+    "digest_sent": false,
+    "end": "2026-10-12T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-10-12/",
+    "name": "Dynamax Rookidee during Max Monday",
+    "notified_at": "2026-09-18T03:08:10.781233+00:00",
+    "start": "2026-10-12T06:00:00.000",
+    "tier": "digest"
+  },
+  "max-mondays-2026-10-19": {
+    "digest_sent": false,
+    "end": "2026-10-19T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-10-19/",
+    "name": "Dynamax Sneasel during Max Monday",
+    "notified_at": "2026-09-18T03:08:10.781242+00:00",
+    "start": "2026-10-19T06:00:00.000",
+    "tier": "digest"
+  },
+  "max-mondays-2026-10-26": {
+    "digest_sent": false,
+    "end": "2026-10-26T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-10-26/",
+    "name": "Dynamax Sableye during Max Monday",
+    "notified_at": "2026-09-18T03:08:10.781252+00:00",
+    "start": "2026-10-26T06:00:00.000",
+    "tier": "digest"
+  },
   "mega-aggron-in-mega-raids-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
@@ -432,6 +513,15 @@
     "start": "2026-09-08T06:00:00.000",
     "tier": "digest"
   },
+  "mega-blastoise-in-mega-raids-october-2026": {
+    "digest_sent": false,
+    "end": "2026-10-13T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/",
+    "name": "Mega Blastoise in Mega Raids",
+    "notified_at": "2026-09-18T03:08:10.781235+00:00",
+    "start": "2026-10-07T06:00:00.000",
+    "tier": "digest"
+  },
   "mega-blaziken-in-mega-raids-august-2026": {
     "digest_sent": true,
     "end": "2026-08-11T22:00:00.000",
@@ -439,6 +529,24 @@
     "name": "Mega Blaziken in Mega Raids",
     "notified_at": "2026-07-23T02:30:30.369232+00:00",
     "start": "2026-08-05T06:00:00.000",
+    "tier": "digest"
+  },
+  "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026": {
+    "digest_sent": false,
+    "end": "2026-10-27T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
+    "name": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+    "notified_at": "2026-09-18T03:08:10.781253+00:00",
+    "start": "2026-10-21T06:00:00.000",
+    "tier": "digest"
+  },
+  "mega-dragonite-in-mega-raids-october-2026": {
+    "digest_sent": false,
+    "end": "2026-10-20T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
+    "name": "Mega Dragonite in Mega Raids",
+    "notified_at": "2026-09-18T03:08:10.781246+00:00",
+    "start": "2026-10-14T06:00:00.000",
     "tier": "digest"
   },
   "mega-garchomp-in-mega-raids-august-2026": {
@@ -478,6 +586,15 @@
     "name": "Mega Malamar in Mega Raids",
     "notified_at": "2026-08-26T01:07:38.519609+00:00",
     "start": "2026-09-23T06:00:00.000",
+    "tier": "digest"
+  },
+  "mega-sableye-in-mega-raids-october-2026": {
+    "digest_sent": false,
+    "end": "2026-11-03T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
+    "name": "Mega Sableye in Mega Raids",
+    "notified_at": "2026-09-18T03:08:10.781264+00:00",
+    "start": "2026-10-28T06:00:00.000",
     "tier": "digest"
   },
   "mega-salamence-in-mega-raids-july-2026": {
@@ -551,6 +668,15 @@
   },
   "ozone-ascent-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
+  },
+  "palkia-in-5-star-raid-battles-october-2026": {
+    "digest_sent": false,
+    "end": "2026-10-27T22:00:00.000",
+    "link": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
+    "name": "Palkia in 5-star Raid Battles",
+    "notified_at": "2026-09-18T03:08:10.781255+00:00",
+    "start": "2026-10-21T06:00:00.000",
+    "tier": "digest"
   },
   "patterns-of-the-wild-2026": {
     "digest_sent": true,
@@ -729,6 +855,51 @@
     "start": "2026-09-24T18:00:00.000",
     "tier": "digest"
   },
+  "pokemonspotlighthour2026-10-01": {
+    "digest_sent": false,
+    "end": "2026-10-01T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
+    "name": "Seedot Spotlight Hour",
+    "notified_at": "2026-09-18T03:08:10.781203+00:00",
+    "start": "2026-10-01T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-10-08": {
+    "digest_sent": false,
+    "end": "2026-10-08T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-08/",
+    "name": "Elgyem Spotlight Hour",
+    "notified_at": "2026-09-18T03:08:10.781230+00:00",
+    "start": "2026-10-08T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-10-15": {
+    "digest_sent": false,
+    "end": "2026-10-15T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-15/",
+    "name": "Stufful Spotlight Hour",
+    "notified_at": "2026-09-18T03:08:10.781240+00:00",
+    "start": "2026-10-15T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-10-22": {
+    "digest_sent": false,
+    "end": "2026-10-22T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+    "name": "Morelull Spotlight Hour",
+    "notified_at": "2026-09-18T03:08:10.781250+00:00",
+    "start": "2026-10-22T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-10-29": {
+    "digest_sent": false,
+    "end": "2026-10-29T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
+    "name": "Gastly Spotlight Hour",
+    "notified_at": "2026-09-18T03:08:10.781258+00:00",
+    "start": "2026-10-29T18:00:00.000",
+    "tier": "digest"
+  },
   "raichu-super-mega-raid-day-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
@@ -825,6 +996,42 @@
     "start": "2026-09-30T18:00:00.000",
     "tier": "digest"
   },
+  "raidhour20261007": {
+    "digest_sent": false,
+    "end": "2026-10-07T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261007/",
+    "name": "Yveltal Raid Hour",
+    "notified_at": "2026-09-18T03:08:10.781227+00:00",
+    "start": "2026-10-07T18:00:00.000",
+    "tier": "digest"
+  },
+  "raidhour20261014": {
+    "digest_sent": false,
+    "end": "2026-10-14T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261014/",
+    "name": "Dialga Raid Hour",
+    "notified_at": "2026-09-18T03:08:10.781239+00:00",
+    "start": "2026-10-14T18:00:00.000",
+    "tier": "digest"
+  },
+  "raidhour20261021": {
+    "digest_sent": false,
+    "end": "2026-10-21T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261021/",
+    "name": "Palkia Raid Hour",
+    "notified_at": "2026-09-18T03:08:10.781248+00:00",
+    "start": "2026-10-21T18:00:00.000",
+    "tier": "digest"
+  },
+  "raidhour20261028": {
+    "digest_sent": false,
+    "end": "2026-10-28T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261028/",
+    "name": "Giratina (Origin Forme) Raid Hour",
+    "notified_at": "2026-09-18T03:08:10.781256+00:00",
+    "start": "2026-10-28T18:00:00.000",
+    "tier": "digest"
+  },
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": {
     "digest_sent": true,
     "end": "2026-09-08T22:00:00.000",
@@ -865,6 +1072,15 @@
     "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
     "notified_at": "2026-07-23T02:30:30.369261+00:00",
     "start": "2026-08-05T06:00:00.000",
+    "tier": "digest"
+  },
+  "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026": {
+    "digest_sent": false,
+    "end": "2026-11-03T22:00:00.000",
+    "link": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
+    "name": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
+    "notified_at": "2026-09-18T03:08:10.781261+00:00",
+    "start": "2026-10-07T06:00:00.000",
     "tier": "digest"
   },
   "shadow-palkia-in-shadow-raids-july-2026": {
@@ -948,6 +1164,15 @@
     "start": "2026-07-21T10:00:00.000",
     "tier": "digest"
   },
+  "unannounced-event-october-2026": {
+    "digest_sent": false,
+    "end": "2026-10-10T23:59:00.000",
+    "link": "https://leekduck.com/events/unannounced-event-october-2026/",
+    "name": "???",
+    "notified_at": "2026-09-18T03:08:10.781231+00:00",
+    "start": "2026-10-04T00:00:00.000",
+    "tier": "digest"
+  },
   "unannounced-september-event-season-24": {
     "digest_sent": true,
     "end": "2026-09-22T20:00:00.000",
@@ -991,6 +1216,15 @@
     "name": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
     "notified_at": "2026-08-26T01:07:38.519611+00:00",
     "start": "2026-09-23T06:00:00.000",
+    "tier": "digest"
+  },
+  "yveltal-in-5-star-raid-battles-october-2026": {
+    "digest_sent": false,
+    "end": "2026-10-13T22:00:00.000",
+    "link": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/",
+    "name": "Yveltal in 5-star Raid Battles",
+    "notified_at": "2026-09-18T03:08:10.781237+00:00",
+    "start": "2026-10-07T06:00:00.000",
     "tier": "digest"
   },
   "zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026": {
