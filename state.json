@@ -42,7 +42,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "choose-your-path-twilight-trails-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-28T20:00:00.000",
     "link": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/",
     "name": "Choose Your Path: Twilight Trails",
@@ -54,7 +54,7 @@
     "notified_at": "2026-07-09T18:31:05.912341+00:00"
   },
   "dialga-in-5-star-raid-battles-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-20T22:00:00.000",
     "link": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
     "name": "Dialga in 5-star Raid Battles",
@@ -63,7 +63,7 @@
     "tier": "digest"
   },
   "fall-marathon-buddy-trek-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-19T23:59:00.000",
     "link": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
     "name": "Fall Marathon: Buddy Trek",
@@ -234,7 +234,7 @@
     "tier": "digest"
   },
   "giratina-origin-forme-in-5-star-raid-battles-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-03T22:00:00.000",
     "link": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
     "name": "Giratina (Origin Forme) in 5-star Raid Battles",
@@ -273,7 +273,7 @@
     "tier": "digest"
   },
   "halloween-2026-part-1": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-31T23:59:00.000",
     "link": "https://leekduck.com/events/halloween-2026-part-1/",
     "name": "Halloween 2026 Part I",
@@ -282,7 +282,7 @@
     "tier": "digest"
   },
   "halloween-2026-part-2": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-05T23:59:00.000",
     "link": "https://leekduck.com/events/halloween-2026-part-2/",
     "name": "Halloween 2026 Part II",
@@ -329,7 +329,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-09-13",
+  "last_digest_sent": "2026-09-20",
   "lego-pokemon-go-2026": {
     "digest_sent": true,
     "end": "2026-09-30T23:59:00.000",
@@ -457,7 +457,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-10-05": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-05T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-10-05/",
     "name": "Dynamax Sizzlipede during Max Monday",
@@ -466,7 +466,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-10-12": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-12T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-10-12/",
     "name": "Dynamax Rookidee during Max Monday",
@@ -475,7 +475,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-10-19": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-19T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-10-19/",
     "name": "Dynamax Sneasel during Max Monday",
@@ -484,7 +484,7 @@
     "tier": "digest"
   },
   "max-mondays-2026-10-26": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-26T21:00:00.000",
     "link": "https://leekduck.com/events/max-mondays-2026-10-26/",
     "name": "Dynamax Sableye during Max Monday",
@@ -514,7 +514,7 @@
     "tier": "digest"
   },
   "mega-blastoise-in-mega-raids-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-13T22:00:00.000",
     "link": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/",
     "name": "Mega Blastoise in Mega Raids",
@@ -532,7 +532,7 @@
     "tier": "digest"
   },
   "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-27T22:00:00.000",
     "link": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
     "name": "Mega Charizard X and Mega Charizard Y in Mega Raids",
@@ -541,7 +541,7 @@
     "tier": "digest"
   },
   "mega-dragonite-in-mega-raids-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-20T22:00:00.000",
     "link": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
     "name": "Mega Dragonite in Mega Raids",
@@ -589,7 +589,7 @@
     "tier": "digest"
   },
   "mega-sableye-in-mega-raids-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-03T22:00:00.000",
     "link": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
     "name": "Mega Sableye in Mega Raids",
@@ -670,7 +670,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "palkia-in-5-star-raid-battles-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-27T22:00:00.000",
     "link": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
     "name": "Palkia in 5-star Raid Battles",
@@ -739,7 +739,7 @@
     "tier": "digest"
   },
   "pokemon-horizons-bonus-timed-research-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-09-22T20:00:00.000",
     "link": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
     "name": "Pok\u00e9mon Horizons Bonus Timed Research",
@@ -865,7 +865,7 @@
     "tier": "digest"
   },
   "pokemonspotlighthour2026-10-01": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-01T19:00:00.000",
     "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
     "name": "Seedot Spotlight Hour",
@@ -874,7 +874,7 @@
     "tier": "digest"
   },
   "pokemonspotlighthour2026-10-08": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-08T19:00:00.000",
     "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-08/",
     "name": "Elgyem Spotlight Hour",
@@ -883,7 +883,7 @@
     "tier": "digest"
   },
   "pokemonspotlighthour2026-10-15": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-15T19:00:00.000",
     "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-15/",
     "name": "Stufful Spotlight Hour",
@@ -892,7 +892,7 @@
     "tier": "digest"
   },
   "pokemonspotlighthour2026-10-22": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-22T19:00:00.000",
     "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
     "name": "Morelull Spotlight Hour",
@@ -901,7 +901,7 @@
     "tier": "digest"
   },
   "pokemonspotlighthour2026-10-29": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-29T19:00:00.000",
     "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
     "name": "Gastly Spotlight Hour",
@@ -1006,7 +1006,7 @@
     "tier": "digest"
   },
   "raidhour20261007": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-07T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20261007/",
     "name": "Yveltal Raid Hour",
@@ -1015,7 +1015,7 @@
     "tier": "digest"
   },
   "raidhour20261014": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-14T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20261014/",
     "name": "Dialga Raid Hour",
@@ -1024,7 +1024,7 @@
     "tier": "digest"
   },
   "raidhour20261021": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-21T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20261021/",
     "name": "Palkia Raid Hour",
@@ -1033,7 +1033,7 @@
     "tier": "digest"
   },
   "raidhour20261028": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-28T19:00:00.000",
     "link": "https://leekduck.com/events/raidhour20261028/",
     "name": "Giratina (Origin Forme) Raid Hour",
@@ -1084,7 +1084,7 @@
     "tier": "digest"
   },
   "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-03T22:00:00.000",
     "link": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
     "name": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
@@ -1174,7 +1174,7 @@
     "tier": "digest"
   },
   "unannounced-event-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-10T23:59:00.000",
     "link": "https://leekduck.com/events/unannounced-event-october-2026/",
     "name": "???",
@@ -1228,7 +1228,7 @@
     "tier": "digest"
   },
   "yveltal-in-5-star-raid-battles-october-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-13T22:00:00.000",
     "link": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/",
     "name": "Yveltal in 5-star Raid Battles",
