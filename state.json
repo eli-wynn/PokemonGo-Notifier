@@ -810,6 +810,15 @@
     "start": "2026-08-28T16:00:00.000Z",
     "tier": "digest"
   },
+  "pokemon-x-adidas-2026": {
+    "digest_sent": false,
+    "end": "2027-01-15T20:00:00.000",
+    "link": "https://leekduck.com/events/pokemon-x-adidas-2026/",
+    "name": "adidas \u00d7 Pok\u00e9mon Timed Research",
+    "notified_at": "2026-09-24T16:28:30.040225+00:00",
+    "start": "2026-09-25T00:00:00.000",
+    "tier": "digest"
+  },
   "pokemon-xp-2026-worlds": {
     "digest_sent": true,
     "end": "2026-08-30T20:00:00.000",
