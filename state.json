@@ -837,6 +837,15 @@
     "start": "2026-09-16T10:00:00.000",
     "tier": "digest"
   },
+  "pokemon-tcg-30th-celebration": {
+    "digest_sent": false,
+    "end": "2026-10-20T22:00:00.000",
+    "link": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
+    "name": "Pok\u00e9mon TCG: 30th Celebration",
+    "notified_at": "2026-09-27T22:47:53.060615+00:00",
+    "start": "2026-09-27T10:00:00.000",
+    "tier": "digest"
+  },
   "pokemon-world-championships-2026-san-francisco": {
     "digest_sent": true,
     "end": "2026-08-31T03:00:00.000Z",
