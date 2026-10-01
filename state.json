@@ -657,6 +657,60 @@
     "start": "2026-09-30T06:00:00.000",
     "tier": "digest"
   },
+  "minior-showers-eta-aquariids-2027": {
+    "digest_sent": false,
+    "end": "2027-05-08T23:59:00.000",
+    "link": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
+    "name": "Minior Showers: Eta Aquariids 2027",
+    "notified_at": "2026-10-01T20:46:46.180465+00:00",
+    "start": "2027-05-03T17:00:00.000",
+    "tier": "digest"
+  },
+  "minior-showers-geminids-2026": {
+    "digest_sent": false,
+    "end": "2026-12-16T23:59:00.000",
+    "link": "https://leekduck.com/events/minior-showers-geminids-2026/",
+    "name": "Minior Showers: Geminids 2026",
+    "notified_at": "2026-10-01T20:46:46.180463+00:00",
+    "start": "2026-12-11T17:00:00.000",
+    "tier": "digest"
+  },
+  "minior-showers-leonids-2026": {
+    "digest_sent": false,
+    "end": "2026-11-19T23:59:00.000",
+    "link": "https://leekduck.com/events/minior-showers-leonids-2026/",
+    "name": "Minior Showers: Leonids 2026",
+    "notified_at": "2026-10-01T20:46:46.180459+00:00",
+    "start": "2026-11-14T17:00:00.000",
+    "tier": "digest"
+  },
+  "minior-showers-orionids-2026": {
+    "digest_sent": false,
+    "end": "2026-10-24T23:59:00.000",
+    "link": "https://leekduck.com/events/minior-showers-orionids-2026/",
+    "name": "Minior Showers: Orionids 2026",
+    "notified_at": "2026-10-01T20:46:46.180446+00:00",
+    "start": "2026-10-19T17:00:00.000",
+    "tier": "digest"
+  },
+  "minior-showers-perseids-2027": {
+    "digest_sent": false,
+    "end": "2027-08-15T23:59:00.000",
+    "link": "https://leekduck.com/events/minior-showers-perseids-2027/",
+    "name": "Minior Showers: Perseids 2027",
+    "notified_at": "2026-10-01T20:46:46.180470+00:00",
+    "start": "2027-08-10T17:00:00.000",
+    "tier": "digest"
+  },
+  "minior-showers-southern-delta-aquariids-2027": {
+    "digest_sent": false,
+    "end": "2027-08-02T23:59:00.000",
+    "link": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
+    "name": "Minior Showers: Southern Delta Aquariids 2027",
+    "notified_at": "2026-10-01T20:46:46.180467+00:00",
+    "start": "2027-07-28T17:00:00.000",
+    "tier": "digest"
+  },
   "november-communityday2026": {
     "digest_sent": true,
     "end": "2026-11-21T17:00:00.000",
