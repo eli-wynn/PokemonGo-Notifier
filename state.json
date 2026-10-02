@@ -900,6 +900,15 @@
     "start": "2026-09-16T10:00:00.000",
     "tier": "digest"
   },
+  "pokemon-night-out-2026-twitch-drops": {
+    "digest_sent": false,
+    "end": "2026-10-25T06:59:00.000Z",
+    "link": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
+    "name": "Twitch Drops for Pok\u00e9mon Night Out 2026",
+    "notified_at": "2026-10-02T17:25:59.249803+00:00",
+    "start": "2026-10-25T02:30:00.000Z",
+    "tier": "digest"
+  },
   "pokemon-tcg-30th-celebration": {
     "digest_sent": false,
     "end": "2026-10-20T22:00:00.000",
