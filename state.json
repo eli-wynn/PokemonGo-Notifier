@@ -62,6 +62,15 @@
     "start": "2026-10-14T06:00:00.000",
     "tier": "digest"
   },
+  "dynamax-uxie-mesprit-azelf-max-battle-day-2026": {
+    "digest_sent": false,
+    "end": "2026-10-24T17:00:00.000",
+    "link": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/",
+    "name": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "notified_at": "2026-10-02T10:26:05.591972+00:00",
+    "start": "2026-10-24T14:00:00.000",
+    "tier": "digest"
+  },
   "fall-marathon-buddy-trek-2026": {
     "digest_sent": true,
     "end": "2026-10-19T23:59:00.000",
