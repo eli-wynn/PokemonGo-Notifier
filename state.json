@@ -63,7 +63,7 @@
     "tier": "digest"
   },
   "dynamax-uxie-mesprit-azelf-max-battle-day-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-24T17:00:00.000",
     "link": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/",
     "name": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
@@ -347,7 +347,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-09-27",
+  "last_digest_sent": "2026-10-04",
   "lego-pokemon-go-2026": {
     "digest_sent": true,
     "end": "2026-09-30T23:59:00.000",
@@ -667,7 +667,7 @@
     "tier": "digest"
   },
   "minior-showers-eta-aquariids-2027": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2027-05-08T23:59:00.000",
     "link": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
     "name": "Minior Showers: Eta Aquariids 2027",
@@ -676,7 +676,7 @@
     "tier": "digest"
   },
   "minior-showers-geminids-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-12-16T23:59:00.000",
     "link": "https://leekduck.com/events/minior-showers-geminids-2026/",
     "name": "Minior Showers: Geminids 2026",
@@ -685,7 +685,7 @@
     "tier": "digest"
   },
   "minior-showers-leonids-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-19T23:59:00.000",
     "link": "https://leekduck.com/events/minior-showers-leonids-2026/",
     "name": "Minior Showers: Leonids 2026",
@@ -694,7 +694,7 @@
     "tier": "digest"
   },
   "minior-showers-orionids-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-24T23:59:00.000",
     "link": "https://leekduck.com/events/minior-showers-orionids-2026/",
     "name": "Minior Showers: Orionids 2026",
@@ -703,7 +703,7 @@
     "tier": "digest"
   },
   "minior-showers-perseids-2027": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2027-08-15T23:59:00.000",
     "link": "https://leekduck.com/events/minior-showers-perseids-2027/",
     "name": "Minior Showers: Perseids 2027",
@@ -712,7 +712,7 @@
     "tier": "digest"
   },
   "minior-showers-southern-delta-aquariids-2027": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2027-08-02T23:59:00.000",
     "link": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
     "name": "Minior Showers: Southern Delta Aquariids 2027",
@@ -901,7 +901,7 @@
     "tier": "digest"
   },
   "pokemon-night-out-2026-twitch-drops": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-25T06:59:00.000Z",
     "link": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
     "name": "Twitch Drops for Pok\u00e9mon Night Out 2026",
@@ -910,7 +910,7 @@
     "tier": "digest"
   },
   "pokemon-tcg-30th-celebration": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-10-20T22:00:00.000",
     "link": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
     "name": "Pok\u00e9mon TCG: 30th Celebration",
