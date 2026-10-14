@@ -771,6 +771,15 @@
   "pokemon-go-10th-anniversary-celebration-twitch-drops": {
     "notified_at": "2026-07-09T18:31:05.373973+00:00"
   },
+  "pokemon-go-city-safari-boston-2026-rescheduled": {
+    "digest_sent": false,
+    "end": "2026-10-25T18:00:00.000",
+    "link": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/",
+    "name": "Pok\u00e9mon GO City Safari: Boston (Rescheduled)",
+    "notified_at": "2026-10-14T16:29:51.641651+00:00",
+    "start": "2026-10-24T10:00:00.000",
+    "tier": "digest"
+  },
   "pokemon-go-city-safari-brisbane-2026": {
     "digest_sent": true,
     "end": "2026-09-27T08:00:00.000Z",
