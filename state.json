@@ -107,6 +107,15 @@
     "start": "2026-10-24T14:00:00.000",
     "tier": "digest"
   },
+  "eternamax-eternatus-max-battles-2026": {
+    "digest_sent": false,
+    "end": "2026-11-21T14:00:00.000",
+    "link": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
+    "name": "Eternamax Eternatus Returns",
+    "notified_at": "2026-10-28T23:52:47.332796+00:00",
+    "start": "2026-11-21T11:00:00.000",
+    "tier": "digest"
+  },
   "fall-marathon-buddy-trek-2026": {
     "digest_sent": true,
     "end": "2026-10-19T23:59:00.000",
@@ -1231,6 +1240,15 @@
     "name": "Teddiursa wearing a witch hat Spotlight Hour",
     "notified_at": "2026-10-19T23:16:58.424469+00:00",
     "start": "2026-11-05T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-11-19": {
+    "digest_sent": false,
+    "end": "2026-11-19T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
+    "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+    "notified_at": "2026-10-28T23:52:47.332776+00:00",
+    "start": "2026-11-19T18:00:00.000",
     "tier": "digest"
   },
   "pokemonspotlighthour2026-11-26": {
