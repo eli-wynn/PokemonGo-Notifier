@@ -108,7 +108,7 @@
     "tier": "digest"
   },
   "eternamax-eternatus-max-battles-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-21T14:00:00.000",
     "link": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
     "name": "Eternamax Eternatus Returns",
@@ -419,7 +419,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-10-25",
+  "last_digest_sent": "2026-11-01",
   "lego-pokemon-go-2026": {
     "digest_sent": true,
     "end": "2026-09-30T23:59:00.000",
@@ -1243,7 +1243,7 @@
     "tier": "digest"
   },
   "pokemonspotlighthour2026-11-19": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-19T19:00:00.000",
     "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
     "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
