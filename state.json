@@ -80,6 +80,15 @@
     "start": "2026-11-16T06:00:00.000",
     "tier": "digest"
   },
+  "december-communityday2026": {
+    "digest_sent": true,
+    "end": "2026-12-13T17:00:00.000",
+    "link": "https://leekduck.com/events/december-communityday2026/",
+    "name": "December Community Day",
+    "notified_at": "2026-11-10T12:04:12.282941+00:00",
+    "start": "2026-12-12T14:00:00.000",
+    "tier": "instant"
+  },
   "deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026": {
     "digest_sent": true,
     "end": "2026-12-01T22:00:00.000",
@@ -133,6 +142,15 @@
     "notified_at": "2026-09-18T03:08:10.781243+00:00",
     "start": "2026-10-13T00:00:00.000",
     "tier": "digest"
+  },
+  "february-communityday2027": {
+    "digest_sent": true,
+    "end": "2027-02-06T17:00:00.000",
+    "link": "https://leekduck.com/events/february-communityday2027/",
+    "name": "February Community Day",
+    "notified_at": "2026-11-10T12:04:12.992772+00:00",
+    "start": "2027-02-06T14:00:00.000",
+    "tier": "instant"
   },
   "fire-and-ice-hatch-day-2026": {
     "digest_sent": true,
@@ -413,6 +431,15 @@
   "hatch-day-august-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
+  "hatch-day-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-26T17:00:00.000",
+    "link": "https://leekduck.com/events/hatch-day-december-2026/",
+    "name": "Hatch Day",
+    "notified_at": "2026-11-10T12:04:12.401005+00:00",
+    "start": "2026-12-26T11:00:00.000",
+    "tier": "digest"
+  },
   "hatch-day-october-2026": {
     "digest_sent": true,
     "end": "2026-10-17T17:00:00.000",
@@ -430,6 +457,24 @@
     "notified_at": "2026-10-14T22:57:45.199765+00:00",
     "start": "2026-11-09T10:00:00.000",
     "tier": "digest"
+  },
+  "january-communityday2027": {
+    "digest_sent": true,
+    "end": "2027-01-16T17:00:00.000",
+    "link": "https://leekduck.com/events/january-communityday2027/",
+    "name": "January Community Day",
+    "notified_at": "2026-11-10T12:04:12.756660+00:00",
+    "start": "2027-01-16T14:00:00.000",
+    "tier": "instant"
+  },
+  "january-communitydayclassic2027": {
+    "digest_sent": true,
+    "end": "2027-01-02T17:00:00.000",
+    "link": "https://leekduck.com/events/january-communitydayclassic2027/",
+    "name": "January Community Day Classic",
+    "notified_at": "2026-11-10T12:04:12.524875+00:00",
+    "start": "2027-01-02T14:00:00.000",
+    "tier": "instant"
   },
   "kyogre-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
@@ -454,6 +499,24 @@
     "name": "Lunala in 5-star Raid Battles",
     "notified_at": "2026-07-23T02:30:30.369248+00:00",
     "start": "2026-08-19T06:00:00.000",
+    "tier": "digest"
+  },
+  "max-battle-day-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-05T17:00:00.000",
+    "link": "https://leekduck.com/events/max-battle-day-december-2026/",
+    "name": "Max Battle Day",
+    "notified_at": "2026-11-10T12:04:12.128118+00:00",
+    "start": "2026-12-05T14:00:00.000",
+    "tier": "digest"
+  },
+  "max-battle-day-january-2027": {
+    "digest_sent": false,
+    "end": "2027-01-23T17:00:00.000",
+    "link": "https://leekduck.com/events/max-battle-day-january-2027/",
+    "name": "Max Battle Day",
+    "notified_at": "2026-11-10T12:04:12.756673+00:00",
+    "start": "2027-01-23T14:00:00.000",
     "tier": "digest"
   },
   "max-battle-day-october-2026": {
@@ -1284,6 +1347,24 @@
   "raid-day-august-2026": {
     "notified_at": "2026-07-09T18:31:06.059757+00:00"
   },
+  "raid-day-december-2026": {
+    "digest_sent": true,
+    "end": "2026-12-19T17:00:00.000",
+    "link": "https://leekduck.com/events/raid-day-december-2026/",
+    "name": "Raid Day",
+    "notified_at": "2026-11-10T12:04:12.400989+00:00",
+    "start": "2026-12-19T14:00:00.000",
+    "tier": "instant"
+  },
+  "raid-day-february-2027": {
+    "digest_sent": true,
+    "end": "2027-02-13T17:00:00.000",
+    "link": "https://leekduck.com/events/raid-day-february-2027/",
+    "name": "Raid Day",
+    "notified_at": "2026-11-10T12:04:13.131293+00:00",
+    "start": "2027-02-13T14:00:00.000",
+    "tier": "instant"
+  },
   "raidhour20260715": {
     "notified_at": "2026-07-09T18:31:05.551552+00:00"
   },
@@ -1559,6 +1640,24 @@
     "notified_at": "2026-07-15T20:57:48.370852+00:00",
     "start": "2026-08-04T10:00:00.000",
     "tier": "digest"
+  },
+  "super-mega-raid-day-january-2027": {
+    "digest_sent": true,
+    "end": "2027-01-09T17:00:00.000",
+    "link": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
+    "name": "Super Mega Raid Day",
+    "notified_at": "2026-11-10T12:04:12.647078+00:00",
+    "start": "2027-01-09T14:00:00.000",
+    "tier": "instant"
+  },
+  "super-mega-raid-day-january-30-2027": {
+    "digest_sent": true,
+    "end": "2027-01-30T17:00:00.000",
+    "link": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
+    "name": "Super Mega Raid Day",
+    "notified_at": "2026-11-10T12:04:12.874721+00:00",
+    "start": "2027-01-30T14:00:00.000",
+    "tier": "instant"
   },
   "super-mega-raid-day-november-2026": {
     "digest_sent": true,
