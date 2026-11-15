@@ -432,7 +432,7 @@
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
   "hatch-day-december-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-12-26T17:00:00.000",
     "link": "https://leekduck.com/events/hatch-day-december-2026/",
     "name": "Hatch Day",
@@ -482,7 +482,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-11-08",
+  "last_digest_sent": "2026-11-15",
   "lego-pokemon-go-2026": {
     "digest_sent": true,
     "end": "2026-09-30T23:59:00.000",
@@ -502,7 +502,7 @@
     "tier": "digest"
   },
   "max-battle-day-december-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-12-05T17:00:00.000",
     "link": "https://leekduck.com/events/max-battle-day-december-2026/",
     "name": "Max Battle Day",
@@ -511,7 +511,7 @@
     "tier": "digest"
   },
   "max-battle-day-january-2027": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2027-01-23T17:00:00.000",
     "link": "https://leekduck.com/events/max-battle-day-january-2027/",
     "name": "Max Battle Day",
@@ -1777,7 +1777,7 @@
     "tier": "digest"
   },
   "zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-13T20:00:00.000",
     "link": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
     "name": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star Raid Battles",
