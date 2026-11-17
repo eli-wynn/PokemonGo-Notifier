@@ -107,6 +107,15 @@
     "start": "2026-10-14T06:00:00.000",
     "tier": "digest"
   },
+  "duolingo-timed-research-2026": {
+    "digest_sent": false,
+    "end": "2026-12-31T23:59:00.000",
+    "link": "https://leekduck.com/events/duolingo-timed-research-2026/",
+    "name": "Pok\u00e9mon GO and Duolingo Timed Research",
+    "notified_at": "2026-11-17T12:45:30.203168+00:00",
+    "start": "2026-11-17T10:00:00.000",
+    "tier": "digest"
+  },
   "dynamax-trails-2026": {
     "digest_sent": true,
     "end": "2026-11-23T20:00:00.000",
