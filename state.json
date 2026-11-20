@@ -1125,6 +1125,15 @@
     "start": "2026-09-16T10:00:00.000",
     "tier": "digest"
   },
+  "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops": {
+    "digest_sent": false,
+    "end": "2026-11-22T23:00:00.000Z",
+    "link": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
+    "name": "Twitch Drops for 2027 Pok\u00e9mon Latin America International Championships",
+    "notified_at": "2026-11-20T16:40:50.019668+00:00",
+    "start": "2026-11-20T12:00:00.000Z",
+    "tier": "digest"
+  },
   "pokemon-night-out-2026-twitch-drops": {
     "digest_sent": true,
     "end": "2026-10-25T06:59:00.000Z",
