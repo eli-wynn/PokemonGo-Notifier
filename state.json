@@ -108,7 +108,7 @@
     "tier": "digest"
   },
   "duolingo-timed-research-2026": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-12-31T23:59:00.000",
     "link": "https://leekduck.com/events/duolingo-timed-research-2026/",
     "name": "Pok\u00e9mon GO and Duolingo Timed Research",
@@ -491,7 +491,7 @@
   "kyurem-in-5-star-raid-battles-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
-  "last_digest_sent": "2026-11-15",
+  "last_digest_sent": "2026-11-22",
   "lego-pokemon-go-2026": {
     "digest_sent": true,
     "end": "2026-09-30T23:59:00.000",
@@ -1126,7 +1126,7 @@
     "tier": "digest"
   },
   "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops": {
-    "digest_sent": false,
+    "digest_sent": true,
     "end": "2026-11-22T23:00:00.000Z",
     "link": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
     "name": "Twitch Drops for 2027 Pok\u00e9mon Latin America International Championships",
