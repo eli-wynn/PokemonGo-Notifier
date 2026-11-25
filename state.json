@@ -170,6 +170,123 @@
     "start": "2026-08-08T11:00:00.000",
     "tier": "digest"
   },
+  "gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition": {
+    "digest_sent": false,
+    "end": "2027-01-12T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition/",
+    "name": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043570+00:00",
+    "start": "2027-01-05T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_master-league": {
+    "digest_sent": false,
+    "end": "2027-02-09T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_master-league/",
+    "name": "Great League: Mega Edition and Master League | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043577+00:00",
+    "start": "2027-02-02T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition": {
+    "digest_sent": false,
+    "end": "2026-12-15T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition/",
+    "name": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043524+00:00",
+    "start": "2026-12-08T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": {
+    "digest_sent": false,
+    "end": "2026-12-08T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043510+00:00",
+    "start": "2026-12-01T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": {
+    "digest_sent": false,
+    "end": "2027-01-05T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043562+00:00",
+    "start": "2026-12-29T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": {
+    "digest_sent": false,
+    "end": "2027-02-02T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043575+00:00",
+    "start": "2027-01-26T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition": {
+    "digest_sent": false,
+    "end": "2027-03-02T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition/",
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043584+00:00",
+    "start": "2027-02-23T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition": {
+    "digest_sent": false,
+    "end": "2026-12-29T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition/",
+    "name": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043549+00:00",
+    "start": "2026-12-22T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_master-league-mega-edition_master-league": {
+    "digest_sent": false,
+    "end": "2027-01-26T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_master-league/",
+    "name": "Master League: Mega Edition and Master League | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043573+00:00",
+    "start": "2027-01-19T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup": {
+    "digest_sent": false,
+    "end": "2027-02-23T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/",
+    "name": "Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043580+00:00",
+    "start": "2027-02-16T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition": {
+    "digest_sent": false,
+    "end": "2026-12-22T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition/",
+    "name": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043536+00:00",
+    "start": "2026-12-15T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition": {
+    "digest_sent": false,
+    "end": "2027-01-19T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/",
+    "name": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043571+00:00",
+    "start": "2027-01-12T21:00:00.000Z",
+    "tier": "digest"
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup": {
+    "digest_sent": false,
+    "end": "2027-02-16T21:00:00.000Z",
+    "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/",
+    "name": "Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043578+00:00",
+    "start": "2027-02-09T21:00:00.000Z",
+    "tier": "digest"
+  },
   "gbl-forever-forward_great-league_master-premier": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
@@ -350,6 +467,15 @@
     "start": "2026-08-04T10:00:00.000",
     "tier": "digest"
   },
+  "go-pass-december-2026": {
+    "digest_sent": false,
+    "end": "2027-01-05T10:00:00.000",
+    "link": "https://leekduck.com/events/go-pass-december-2026/",
+    "name": "GO Pass: December",
+    "notified_at": "2026-11-25T03:20:58.043560+00:00",
+    "start": "2026-12-01T10:00:00.000",
+    "tier": "digest"
+  },
   "go-pass-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
@@ -458,6 +584,15 @@
     "start": "2026-10-17T11:00:00.000",
     "tier": "digest"
   },
+  "ho-oh-in-5-star-raid-battles-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-22T22:00:00.000",
+    "link": "https://leekduck.com/events/ho-oh-in-5-star-raid-battles-december-2026/",
+    "name": "Ho-Oh in 5-star Raid Battles",
+    "notified_at": "2026-11-25T03:20:58.043538+00:00",
+    "start": "2026-12-16T06:00:00.000",
+    "tier": "digest"
+  },
   "into-the-wild-2026": {
     "digest_sent": true,
     "end": "2026-11-13T20:00:00.000",
@@ -499,6 +634,15 @@
     "name": "LEGO Stores and Pok\u00e9mon GO",
     "notified_at": "2026-08-03T02:34:01.275103+00:00",
     "start": "2026-08-03T10:00:00.000",
+    "tier": "digest"
+  },
+  "lugia-in-5-star-raid-battles-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-29T22:00:00.000",
+    "link": "https://leekduck.com/events/lugia-in-5-star-raid-battles-december-2026/",
+    "name": "Lugia in 5-star Raid Battles",
+    "notified_at": "2026-11-25T03:20:58.043551+00:00",
+    "start": "2026-12-23T06:00:00.000",
     "tier": "digest"
   },
   "lunala-in-5-star-raid-battles-august-2026": {
@@ -708,6 +852,42 @@
     "start": "2026-11-30T06:00:00.000",
     "tier": "digest"
   },
+  "max-mondays-2026-12-07": {
+    "digest_sent": false,
+    "end": "2026-12-07T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-12-07/",
+    "name": "Dynamax Deino during Max Monday",
+    "notified_at": "2026-11-25T03:20:58.043508+00:00",
+    "start": "2026-12-07T06:00:00.000",
+    "tier": "digest"
+  },
+  "max-mondays-2026-12-14": {
+    "digest_sent": false,
+    "end": "2026-12-14T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-12-14/",
+    "name": "Dynamax Eevee during Max Monday",
+    "notified_at": "2026-11-25T03:20:58.043522+00:00",
+    "start": "2026-12-14T06:00:00.000",
+    "tier": "digest"
+  },
+  "max-mondays-2026-12-21": {
+    "digest_sent": false,
+    "end": "2026-12-21T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-12-21/",
+    "name": "Dynamax Alolan Sandshrew during Max Monday",
+    "notified_at": "2026-11-25T03:20:58.043534+00:00",
+    "start": "2026-12-21T06:00:00.000",
+    "tier": "digest"
+  },
+  "max-mondays-2026-12-28": {
+    "digest_sent": false,
+    "end": "2026-12-28T21:00:00.000",
+    "link": "https://leekduck.com/events/max-mondays-2026-12-28/",
+    "name": "Dynamax Magikarp during Max Monday",
+    "notified_at": "2026-11-25T03:20:58.043547+00:00",
+    "start": "2026-12-28T06:00:00.000",
+    "tier": "digest"
+  },
   "mega-aggron-in-mega-raids-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
@@ -774,6 +954,15 @@
     "start": "2026-10-14T06:00:00.000",
     "tier": "digest"
   },
+  "mega-falinks-in-mega-raids-december-2026": {
+    "digest_sent": false,
+    "end": "2027-01-05T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-falinks-in-mega-raids-december-2026/",
+    "name": "Mega Falinks in Mega Raids",
+    "notified_at": "2026-11-25T03:20:58.043566+00:00",
+    "start": "2026-12-30T06:00:00.000",
+    "tier": "digest"
+  },
   "mega-garchomp-in-mega-raids-august-2026": {
     "digest_sent": true,
     "end": "2026-08-18T22:00:00.000",
@@ -781,6 +970,24 @@
     "name": "Mega Garchomp in Mega Raids",
     "notified_at": "2026-07-23T02:30:30.369242+00:00",
     "start": "2026-08-12T06:00:00.000",
+    "tier": "digest"
+  },
+  "mega-gengar-in-mega-raids-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-15T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-gengar-in-mega-raids-december-2026/",
+    "name": "Mega Gengar in Mega Raids",
+    "notified_at": "2026-11-25T03:20:58.043526+00:00",
+    "start": "2026-12-09T06:00:00.000",
+    "tier": "digest"
+  },
+  "mega-glalie-in-mega-raids-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-29T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2026/",
+    "name": "Mega Glalie in Mega Raids",
+    "notified_at": "2026-11-25T03:20:58.043553+00:00",
+    "start": "2026-12-23T06:00:00.000",
     "tier": "digest"
   },
   "mega-gyarados-in-mega-raids-august-2026": {
@@ -836,6 +1043,24 @@
   },
   "mega-sceptile-in-mega-raids-july-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
+  },
+  "mega-skarmory-in-mega-raids-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-22T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-skarmory-in-mega-raids-december-2026/",
+    "name": "Mega Skarmory in Mega Raids",
+    "notified_at": "2026-11-25T03:20:58.043539+00:00",
+    "start": "2026-12-16T06:00:00.000",
+    "tier": "digest"
+  },
+  "mega-slowbro-in-mega-raids-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-08T22:00:00.000",
+    "link": "https://leekduck.com/events/mega-slowbro-in-mega-raids-december-2026/",
+    "name": "Mega Slowbro in Mega Raids",
+    "notified_at": "2026-11-25T03:20:58.043512+00:00",
+    "start": "2026-12-02T06:00:00.000",
+    "tier": "digest"
   },
   "mega-squads": {
     "digest_sent": true,
@@ -934,6 +1159,15 @@
     "name": "Minior Showers: Southern Delta Aquariids 2027",
     "notified_at": "2026-10-01T20:46:46.180467+00:00",
     "start": "2027-07-28T17:00:00.000",
+    "tier": "digest"
+  },
+  "new-years-2027": {
+    "digest_sent": false,
+    "end": "2027-01-04T20:00:00.000",
+    "link": "https://leekduck.com/events/new-years-2027/",
+    "name": "New Year's 2027",
+    "notified_at": "2026-11-25T03:20:58.043558+00:00",
+    "start": "2026-12-29T10:00:00.000",
     "tier": "digest"
   },
   "november-communityday2026": {
@@ -1359,6 +1593,51 @@
     "start": "2026-11-26T18:00:00.000",
     "tier": "digest"
   },
+  "pokemonspotlighthour2026-12-03": {
+    "digest_sent": false,
+    "end": "2026-12-03T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-03/",
+    "name": "Wimpod Spotlight Hour",
+    "notified_at": "2026-11-25T03:20:58.043501+00:00",
+    "start": "2026-12-03T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-12-10": {
+    "digest_sent": false,
+    "end": "2026-12-10T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-10/",
+    "name": "Starly Spotlight Hour",
+    "notified_at": "2026-11-25T03:20:58.043518+00:00",
+    "start": "2026-12-10T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-12-17": {
+    "digest_sent": false,
+    "end": "2026-12-17T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-17/",
+    "name": "Bergmite Spotlight Hour",
+    "notified_at": "2026-11-25T03:20:58.043532+00:00",
+    "start": "2026-12-17T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-12-24": {
+    "digest_sent": false,
+    "end": "2026-12-24T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-24/",
+    "name": "Delibird Spotlight Hour",
+    "notified_at": "2026-11-25T03:20:58.043543+00:00",
+    "start": "2026-12-24T18:00:00.000",
+    "tier": "digest"
+  },
+  "pokemonspotlighthour2026-12-31": {
+    "digest_sent": false,
+    "end": "2026-12-31T19:00:00.000",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-31/",
+    "name": "Plusle and Minun Spotlight Hour",
+    "notified_at": "2026-11-25T03:20:58.043557+00:00",
+    "start": "2026-12-31T18:00:00.000",
+    "tier": "digest"
+  },
   "raichu-super-mega-raid-day-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
@@ -1536,6 +1815,60 @@
     "start": "2026-11-25T18:00:00.000",
     "tier": "digest"
   },
+  "raidhour20261202": {
+    "digest_sent": false,
+    "end": "2026-12-02T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261202/",
+    "name": "Regidrago Raid Hour",
+    "notified_at": "2026-11-25T03:20:58.043485+00:00",
+    "start": "2026-12-02T18:00:00.000",
+    "tier": "digest"
+  },
+  "raidhour20261209": {
+    "digest_sent": false,
+    "end": "2026-12-09T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261209/",
+    "name": "Unannounced Raid Hour",
+    "notified_at": "2026-11-25T03:20:58.043516+00:00",
+    "start": "2026-12-09T18:00:00.000",
+    "tier": "digest"
+  },
+  "raidhour20261216": {
+    "digest_sent": false,
+    "end": "2026-12-16T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261216/",
+    "name": "Ho-Oh Raid Hour",
+    "notified_at": "2026-11-25T03:20:58.043530+00:00",
+    "start": "2026-12-16T18:00:00.000",
+    "tier": "digest"
+  },
+  "raidhour20261223": {
+    "digest_sent": false,
+    "end": "2026-12-23T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261223/",
+    "name": "Lugia Raid Hour",
+    "notified_at": "2026-11-25T03:20:58.043541+00:00",
+    "start": "2026-12-23T18:00:00.000",
+    "tier": "digest"
+  },
+  "raidhour20261230": {
+    "digest_sent": false,
+    "end": "2026-12-30T19:00:00.000",
+    "link": "https://leekduck.com/events/raidhour20261230/",
+    "name": "Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) Raid Hour",
+    "notified_at": "2026-11-25T03:20:58.043555+00:00",
+    "start": "2026-12-30T18:00:00.000",
+    "tier": "digest"
+  },
+  "regidrago-in-5-star-raid-battles-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-08T22:00:00.000",
+    "link": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2026/",
+    "name": "Regidrago in 5-star Raid Battles",
+    "notified_at": "2026-11-25T03:20:58.043514+00:00",
+    "start": "2026-12-02T06:00:00.000",
+    "tier": "digest"
+  },
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": {
     "digest_sent": true,
     "end": "2026-09-08T22:00:00.000",
@@ -1569,6 +1902,15 @@
     "start": "2026-09-08T10:00:00.000",
     "tier": "digest"
   },
+  "season-25-daydream-destinations": {
+    "digest_sent": false,
+    "end": "2027-03-01T10:00:00.000",
+    "link": "https://leekduck.com/events/season-25-daydream-destinations/",
+    "name": "Daydream Destinations",
+    "notified_at": "2026-11-25T03:20:58.043582+00:00",
+    "start": "2026-12-01T10:00:00.000",
+    "tier": "digest"
+  },
   "september-communitydayclassic2026": {
     "digest_sent": true,
     "end": "2026-09-12T17:00:00.000",
@@ -1577,6 +1919,15 @@
     "notified_at": "2026-08-10T20:38:54.356491+00:00",
     "start": "2026-09-12T14:00:00.000",
     "tier": "instant"
+  },
+  "shadow-dialga-in-shadow-raids-december-2026": {
+    "digest_sent": false,
+    "end": "2027-01-05T22:00:00.000",
+    "link": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-december-2026/",
+    "name": "Shadow Dialga in Shadow Raids",
+    "notified_at": "2026-11-25T03:20:58.043564+00:00",
+    "start": "2026-12-02T06:00:00.000",
+    "tier": "digest"
   },
   "shadow-giratina-altered-in-shadow-raids-august-2026": {
     "digest_sent": true,
@@ -1704,6 +2055,24 @@
     "start": "2026-09-19T14:00:00.000",
     "tier": "instant"
   },
+  "tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026": {
+    "digest_sent": false,
+    "end": "2027-01-05T22:00:00.000",
+    "link": "https://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026/",
+    "name": "Tornadus, Thundurus, and Landorus (Therian Formes) in 5-star Raid Battles",
+    "notified_at": "2026-11-25T03:20:58.043568+00:00",
+    "start": "2026-12-30T06:00:00.000",
+    "tier": "digest"
+  },
+  "tropical-paradise-2026": {
+    "digest_sent": false,
+    "end": "2026-12-07T20:00:00.000",
+    "link": "https://leekduck.com/events/tropical-paradise-2026/",
+    "name": "Tropical Paradise",
+    "notified_at": "2026-11-25T03:20:58.043505+00:00",
+    "start": "2026-12-01T10:00:00.000",
+    "tier": "digest"
+  },
   "twilight-wishes-2026": {
     "digest_sent": true,
     "end": "2026-11-30T20:00:00.000",
@@ -1722,6 +2091,15 @@
     "start": "2026-07-21T10:00:00.000",
     "tier": "digest"
   },
+  "unannounced-event-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-14T20:00:00.000",
+    "link": "https://leekduck.com/events/unannounced-event-december-2026/",
+    "name": "Unannounced Event",
+    "notified_at": "2026-11-25T03:20:58.043520+00:00",
+    "start": "2026-12-08T10:00:00.000",
+    "tier": "digest"
+  },
   "unannounced-event-october-2026": {
     "digest_sent": true,
     "end": "2026-10-10T23:59:00.000",
@@ -1729,6 +2107,15 @@
     "name": "???",
     "notified_at": "2026-09-18T03:08:10.781231+00:00",
     "start": "2026-10-04T00:00:00.000",
+    "tier": "digest"
+  },
+  "unannounced-pokemon-in-5-star-raid-battles-december-2026": {
+    "digest_sent": false,
+    "end": "2026-12-15T22:00:00.000",
+    "link": "https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/",
+    "name": "Unannounced Pok\u00e9mon in 5-star Raid Battles",
+    "notified_at": "2026-11-25T03:20:58.043528+00:00",
+    "start": "2026-12-09T06:00:00.000",
     "tier": "digest"
   },
   "unannounced-september-event-season-24": {
@@ -1756,6 +2143,15 @@
     "name": "Water Festival",
     "notified_at": "2026-07-12T06:30:46.453861+00:00",
     "start": "2026-08-18T10:00:00.000",
+    "tier": "digest"
+  },
+  "winter-holiday-2026": {
+    "digest_sent": false,
+    "end": "2026-12-28T20:00:00.000",
+    "link": "https://leekduck.com/events/winter-holiday-2026/",
+    "name": "Winter Holiday 2026",
+    "notified_at": "2026-11-25T03:20:58.043545+00:00",
+    "start": "2026-12-22T10:00:00.000",
     "tier": "digest"
   },
   "world-space-week-2026": {
