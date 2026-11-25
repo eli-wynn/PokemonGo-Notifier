@@ -47,6 +47,42 @@
     "start": "2026-10-31T14:00:00.000",
     "tier": "instant"
   },
+  "choose-your-path-daydream-destinations-2026-12-15": {
+    "digest_sent": false,
+    "end": "2026-12-21T20:00:00.000",
+    "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/",
+    "name": "Choose Your Path: Daydream Destinations (December 15, 2026)",
+    "notified_at": "2026-11-25T13:52:32.266879+00:00",
+    "start": "2026-12-15T10:00:00.000",
+    "tier": "digest"
+  },
+  "choose-your-path-daydream-destinations-2027-01-12": {
+    "digest_sent": false,
+    "end": "2027-01-18T20:00:00.000",
+    "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/",
+    "name": "Choose Your Path: Daydream Destinations (January 12, 2027)",
+    "notified_at": "2026-11-25T13:52:32.266901+00:00",
+    "start": "2027-01-12T10:00:00.000",
+    "tier": "digest"
+  },
+  "choose-your-path-daydream-destinations-2027-01-26": {
+    "digest_sent": false,
+    "end": "2027-02-01T20:00:00.000",
+    "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/",
+    "name": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+    "notified_at": "2026-11-25T13:52:32.266904+00:00",
+    "start": "2027-01-26T10:00:00.000",
+    "tier": "digest"
+  },
+  "choose-your-path-daydream-destinations-2027-02-16": {
+    "digest_sent": false,
+    "end": "2027-02-21T20:00:00.000",
+    "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/",
+    "name": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+    "notified_at": "2026-11-25T13:52:32.266905+00:00",
+    "start": "2027-02-16T10:00:00.000",
+    "tier": "digest"
+  },
   "choose-your-path-fairy-trail-2026": {
     "notified_at": "2026-07-09T18:31:05.755522+00:00"
   },
